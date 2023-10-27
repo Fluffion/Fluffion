@@ -1,3 +1,1 @@
 - hi, I'm Fluffion
-- Administrator for https://namemc.com/
-- Moderator for OptiFine's Discord server
