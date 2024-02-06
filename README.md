@@ -1,1 +1,1 @@
-- hi, I'm Fluffion, everything here is a heavy WIP so keep that in mind lol
+- hi, I'm Fluffion. I don't really know how to code, at all, so keep that in mind lol
